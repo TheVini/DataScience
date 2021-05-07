@@ -8,5 +8,6 @@ Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos
 
 ## Problemas resolvidos/em andamento
 1. Classificação
+  1.1. [Swiss Bannote Conterfeit Detection](classification/swiss_banknote)
 
 Contato pelo Linkedin: https://bit.ly/3tsOnU3
