@@ -4,10 +4,10 @@ Este repositório tem como objetivo demonstrar resolução de diversos tipos de 
 Sendo problemas de classificação, regressão, agrupamento, análises temporáis e etc.
 
 Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos dados, as metodologias utilizadas, resultados, conclusões e etc.
-
+Obs.: Portfólio em constante mudança tanto para correções, melhorias e resolução de novos problemas.
 
 ## Problemas resolvidos/em andamento
 1. Classificação
-   - [Swiss Bannote Conterfeit Detection](classification/swiss_banknote)
+   - [Swiss Bannote Conterfeit Detection](classification/swiss_banknote) - Em andamento
 
 Contato pelo Linkedin: https://bit.ly/3tsOnU3
