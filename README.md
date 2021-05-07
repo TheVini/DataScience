@@ -5,4 +5,8 @@ Sendo problemas de classificação, regressão, agrupamento, análises temporái
 
 Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos dados, as metodologias utilizadas, resultados, conclusões e etc.
 
+
+## Problemas resolvidos/em andamento
+1. Classificação
+
 Contato pelo Linkedin: https://bit.ly/3tsOnU3
