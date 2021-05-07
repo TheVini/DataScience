@@ -6,7 +6,7 @@ Sendo problemas de classificação, regressão, agrupamento, análises temporái
 Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos dados, as metodologias utilizadas, resultados, conclusões e etc.
 Obs.: Portfólio em constante mudança tanto para correções, melhorias e resolução de novos problemas.
 
-## Problemas resolvidos/em andamento
+## Problemas
 1. Classificação
    - [Swiss Bannote Conterfeit Detection](classification/swiss_banknote) - Em andamento
 
