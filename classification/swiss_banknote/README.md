@@ -1,3 +1,1 @@
-<td align="center">
-    <img src="https://github.com/TheVini/DataScience/tree/master/classification/swiss_bank/notenotebook_file.jpg" width="300" height="200">
-</td>
+<img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/notebook_file.jpg">
