@@ -1,1 +1,1 @@
-<img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/notebook_file.jpg" width="1000">
+<img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/notebook_file.jpg" width="1200">
