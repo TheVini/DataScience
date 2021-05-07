@@ -1,4 +1,4 @@
-# DataScience
+# Data Science - Portfólio
 
 Este repositório tem como objetivo demonstrar resolução de diversos tipos de problemas estatísticos na área de Ciência de Dados. 
 Sendo problemas de classificação, regressão, agrupamento, análises temporáis e etc.
