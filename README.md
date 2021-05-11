@@ -10,5 +10,6 @@ Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos
 ## Problemas
 1. Classificação
    - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Em andamento
+   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Em andamento
 
 Contato pelo Linkedin: https://bit.ly/3tsOnU3
