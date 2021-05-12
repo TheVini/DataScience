@@ -1,15 +1,19 @@
-# Data Science - Portfólio
+# Data Science - Portfolio
 
-Este repositório tem como objetivo demonstrar resolução de diversos tipos de problemas estatísticos na área de Ciência de Dados. 
-Sendo problemas de classificação, regressão, agrupamento, análises temporáis e etc.
+This repository's goal is to apply some data science stastistical concepts acquired by this repository's author.
+There are classification, regression, grouping, temporal analysis problems, and so on.
 
-Dentro de cada pasta há um arquivo detalhando o problema resolvido, a fonte dos dados, as metodologias utilizadas, resultados, conclusões e etc.
+Inside each folder contains its README file, data source reference, solution, conclusions, methodologies used description, some links (ex.: GAN) just contains the reference to the solution video in my Linkedin profile, and so on.
 
-**Obs.: Portfólio em constante atualização tanto para correções quanto para melhorias e resolução de novos problemas.**
+**Note: This repository is under continuous updating in order to correct bugs, correct conceptual errors and typo, implement improvements, and solve new problems.**
 
-## Problemas
-1. Classificação
-   - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Em andamento
-   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Em andamento
+## Exercises
+1. Classification
+   - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved
+   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Ongoing
+2. GAN (Generative Adversarial Networks)
+   - [Artifial anime generator](https://bit.ly/3sVqOE1) - Solved
+2. Reinforcement Learning
+   - [OpenAI - Gym](https://github.com/TheVini/ReinforcementLearning_OpenAI) - Partialy Solved
 
-Contato pelo Linkedin: https://bit.ly/3tsOnU3
+**Repository author's Linkedin profile**: https://bit.ly/3tsOnU3
