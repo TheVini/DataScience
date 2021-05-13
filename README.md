@@ -1,7 +1,7 @@
 # Data Science - Portfolio
 
 This repository's goal is to apply some data science stastistical concepts acquired by this repository's author.
-There are classification, regression, grouping, temporal analysis problems, and so on.
+There are classification, regression, clustering, temporal analysis problems, and so on.
 
 Inside each folder contains its README file, data source reference, solution, conclusions, methodologies used description, some links (ex.: GAN) just contains the reference to the solution video in my Linkedin profile, and so on.
 
