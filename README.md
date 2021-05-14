@@ -10,7 +10,7 @@ Inside each folder contains its README file, data source reference, solution, co
 ## Exercises
 1. Classification
    - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved
-   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Ongoing
+   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved
 2. GAN (Generative Adversarial Networks)
    - [Artifial anime generator](https://bit.ly/3sVqOE1) - Solved
 2. Reinforcement Learning
