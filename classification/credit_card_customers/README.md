@@ -124,3 +124,43 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_029.png" width="950">
 </p>
 </details>
+
+## 4. Model training
+
+### 4.1. No treatment applied on models - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_030.png" height="250">
+</p>
+</details>
+
+<details><summary>Show results' score</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_031.png" height="250">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_032.png" width="650">
+</p>
+</details>
+
+<details><summary>Show results' ROC curve</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_033.png" height="600">
+</p>
+</details>
+
+<details><summary>Show results' confusion matrix</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_034.png" height="550">
+</p>
+</details>
+
+<details><summary>Show results' score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_035.png" height="450">
+</p>
+</details>
