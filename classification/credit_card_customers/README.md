@@ -68,7 +68,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 </p>
 </details>
 
-<details><summary>Show columns' distributions analysis</summary>
+<details><summary>Show columns' distributions and box plots analysis</summary>
  <ul>
 <li> There are skewed data in some columns and it can be seen on quantitative explicative variables' histograms and on their boxplots. 
 </ul>
@@ -83,5 +83,9 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_014.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_015.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_016.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_017.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_018.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_019.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_020.png" width="950">
 </p>
 </details>
