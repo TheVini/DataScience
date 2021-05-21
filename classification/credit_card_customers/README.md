@@ -137,7 +137,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show results' score</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_031.png" height="250">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_031.png" height="450">
 </p>
 </details>
 
@@ -201,7 +201,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show results' score</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_037.png" height="250">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_037.png" height="450">
 </p>
 </details>
 
