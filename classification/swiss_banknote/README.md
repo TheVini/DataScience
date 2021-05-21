@@ -72,6 +72,9 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
  - About data normality, some deatils are described below by QQ plots with alpha adjusted to 5%.
 
 <details><summary>Show QQ plots</summary>
+<ul>
+<li> About data normality, some deatils are described below by QQ plots with alpha adjusted to 5%.
+</ul>
 <p>- About data normality, some deatils are described below by QQ plots with alpha adjusted to 5%.</p>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_007.png" width="850">
