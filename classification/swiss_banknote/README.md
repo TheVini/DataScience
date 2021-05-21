@@ -38,8 +38,8 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 <li> The data below proves that some normalization technique is needed on explicative variables and they are also continuous.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_002.png" height="250">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" height="250">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_002.png" height="200">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" height="200">
 </p>
 </details>
 
@@ -103,7 +103,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 ### 3. Model training and testing - With skewed data and no attribute selection
 
-<details><summary>Show Dataset columns' analysis</summary>
+<details><summary>Show Dataset columns example</summary>
 <p>Explicative variables (left image) and response variable (right image)</p>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_010.png" height="150">
