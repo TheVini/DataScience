@@ -29,3 +29,5 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_001.png" width="1050">
 </p>
 </details>
+
+### 2. Exploratory Data Analysis
