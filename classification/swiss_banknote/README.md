@@ -39,7 +39,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 <details><summary>Show Dataset columns' analysis</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_002.png" width="350">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" width="450">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" width="550">
 </p>
 </details>
 
