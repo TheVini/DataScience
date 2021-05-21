@@ -40,7 +40,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show Dataset clean</summary>
  <ul>
-<li> according to this dataset author on Kaggle, two last columns must be deleted.
+<li> according to this dataset author on Kaggle, two last columns must be deleted. New size: 10127 x 21.
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_003.png" width="1050">
