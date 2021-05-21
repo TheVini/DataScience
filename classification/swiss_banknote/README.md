@@ -32,20 +32,14 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 ### 2. Exploratory Data Analysis
 
-**Analysis:** By getting "non-null" results below, it proves:
- - There is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+**Analysis:** 
+ - By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+ - The data below proves that some normalization technique is needed on explicative variables and they are also continuous.
 
 <details><summary>Show Dataset columns' analysis</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_002.png" width="350">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" width="350">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" width="450">
 </p>
 </details>
 
-**Analysis:** The data below proves that some normalization technique is needed on explicative variables and they are also continuous.
-
-<details><summary>Show Dataset columns' analysis</summary>
-<p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" width="350">
-</p>
-</details>
