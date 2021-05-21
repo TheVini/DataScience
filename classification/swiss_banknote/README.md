@@ -23,11 +23,11 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
 ## Table of Content
-- [1. Getting dataset from Kaggle by API](#heading)
-- [2. Exploratory Data Analysis](#heading-1)
-- [3. Model training and testing - With skewed data and no attribute selection](#heading-2)
-- [4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection](#heading-3)
-- [5. Conclusion](#heading-4)
+- [1. Getting dataset from Kaggle by API](#1. Getting dataset from Kaggle by API)
+- [2. Exploratory Data Analysis](#2. Exploratory Data Analysis)
+- [3. Model training and testing - With skewed data and no attribute selection](#3. Model training and testing - With skewed data and no attribute selection)
+- [4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection](#4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection)
+- [5. Conclusion](#5. Conclusion)
 
 ## 1. Getting dataset from Kaggle by API
 
