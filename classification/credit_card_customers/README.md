@@ -40,7 +40,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show the new clean dataset</summary>
  <ul>
-<li> according to this dataset author on Kaggle, two last columns must be deleted. New size: 10127 x 21.
+<li> According to this dataset author on Kaggle, two last columns must be deleted. New size: 10127 x 21.
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_003.png" width="1050">
@@ -56,5 +56,14 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="350">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_005.png" height="200">
+</p>
+</details>
+
+<details><summary>Show 'Attrition_Flag' class distribution</summary>
+ <ul>
+<li> The response variable, 'Attrition_Flag', is unbalanced between its classes - 'Attrited Customer' and 'Existing Customer'. Then, some undersampling or oversampling technique must be applied on dataset in order to remove elements or add some synthetic elements.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_006.png" width="1050">
 </p>
 </details>
