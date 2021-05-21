@@ -34,7 +34,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show Dataset size</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="50">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="25">
 </p>
 </details>
 
