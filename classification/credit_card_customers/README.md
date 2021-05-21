@@ -64,6 +64,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> The response variable, 'Attrition_Flag', is unbalanced between its classes - 'Attrited Customer' and 'Existing Customer'. Then, some undersampling or oversampling technique must be applied on dataset in order to remove elements or add some synthetic elements.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_006.png" width="550">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_006.png" width="450">
 </p>
 </details>
