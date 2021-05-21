@@ -30,4 +30,29 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 </p>
 </details>
 
-### 2. Exploratory Data Analysis
+## 2. Exploratory Data Analysis
+
+<details><summary>Show Dataset size</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="100">
+</p>
+</details>
+
+<details><summary>Show Dataset clean</summary>
+ <ul>
+<li> according to this dataset author on Kaggle, two last columns must be deleted.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_003.png" height="1050">
+</p>
+</details>
+
+<details><summary>Show Dataset columns' analysis</summary>
+<ul>
+<li> By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="200">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_005.png" height="200">
+</p>
+</details>
