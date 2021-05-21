@@ -88,6 +88,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 <li> Very weak: Lenght
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_008.png" width="650">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_008.png" width="550">
 </p>
 </details>
