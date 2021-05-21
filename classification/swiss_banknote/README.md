@@ -1,4 +1,6 @@
-Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/chrizzles/swiss-banknote-conterfeit-detection
+## Swiss banknote conterfeit detection
+
+Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzles/swiss-banknote-conterfeit-detection
 
 Goal: Finding a model which can identify genuine and conterfeit banknotes.
 
