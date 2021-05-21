@@ -131,7 +131,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show results' ROC curve</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_015.png" height="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_015.png" height="650">
 </p>
 </details>
 
