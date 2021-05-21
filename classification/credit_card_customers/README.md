@@ -228,3 +228,41 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_041.png" height="450">
 </p>
 </details>
+
+### 4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_042.png" height="250">
+</p>
+</details>
+
+<details><summary>Show results' score</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_043.png" height="450">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_044.png" width="550">
+</p>
+</details>
+
+<details><summary>Show results' confusion matrix</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_045.png" height="550">
+</p>
+</details>
+
+<details><summary>Show results' score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_046.png" height="450">
+</p>
+</details>
+
+## 5. Conclusion
+
+Note: Some trainning were carried out with Robust Scaler, but it reached a TPR lower than models in section 4.2.1., as well as a FPR higher than models in 4.2.1.
+
+Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests, section 4.1 and 4.2, using 30 train loops. But, during K-Fold cross-validation, section 4.3, just SVC algorithm achieved a real different result from previous sections - a lower result. Other algorithms reached a good result on cross-validation, a special consideration for Random Forest which reached the higher resultm 99.5%.
