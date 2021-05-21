@@ -8,9 +8,10 @@ Inside each folder contains its README file, data source reference, solution, co
 **Note: This repository is under continuous updating in order to correct bugs, correct conceptual errors and typo, implement improvements, and solve new problems.**
 
 ## Exercises
-1. Classification - Note: Pending completeness - ROC Curve for K-Folds cross-validation
+1. Classification
    - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved 
    - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved
+   > Note: Pending completeness - ROC Curve for K-Folds cross-validation
 2. Regression
    - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Ongoing
 3. GAN (Generative Adversarial Networks)
