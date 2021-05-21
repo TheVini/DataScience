@@ -107,3 +107,20 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_022.png" width="850">
 </p>
 </details>
+
+## 3. Data Prep
+
+<details><summary>Data Transformation</summary>
+ <ul>
+<li> No transformation was applied to skewed variables, because none of them (Log and Square trasnformation) resulted in a good distribution. Analyzed columns: 'Credit_Limit', 'Avg_Open_To_Buy', 'Total_Amt_Chng_Q4_Q1', 'Total_Ct_Chng_Q4_Q1', 'Avg_Utilization_Ratio', 'Total_Trans_Amt', 'Total_Revolving_Bal'. So, RobustScaler is recommended to use in this columns during model training (see https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02).
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_023.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_024.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_025.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_026.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_027.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_028.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_029.png" width="950">
+</p>
+</details>
