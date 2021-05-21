@@ -22,4 +22,4 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
-### 1. getting dataset from Kaggle by API
+### 1. Getting dataset from Kaggle by API
