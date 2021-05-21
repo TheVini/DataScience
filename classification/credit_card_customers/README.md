@@ -164,3 +164,18 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_035.png" height="450">
 </p>
 </details>
+
+### 4.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
+
+<details><summary>Undersampling analysis</summary>
+<p>Some undersamping techniques were tested and the best one was the "Repeated Edited Nearest Neighbours". Undersampling techniques that were tested:</p>
+<ul>
+<li> Tomek Links
+<li> Nearest Neighbours Technique
+<li> AllKNN
+<li> Condensed Nearest Neighbors
+<li> Repeated Edited Nearest Neighbours
+<li> One Sided Selection
+<li> Neighbourhood Cleaning Rule
+</ul>
+</details>
