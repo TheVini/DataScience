@@ -43,17 +43,19 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-**Analysis:** 
- - The response variable, 'conterfeit', is perfect balanced between its classes. So there is no need of using undersampling or oversampling techniques.
 <details><summary>Show 'conterfeit' classes distribution</summary>
 <p align="center">
+<ul>
+<li> The response variable, 'conterfeit', is perfect balanced between its classes. So there is no need of using undersampling or oversampling techniques.
+</ul>
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_004.png" height="15">
 </p>
 </details>
 
-**Analysis:** 
- - The distribution graphics below also proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
-<details><summary>Show columns' distributions</summary>
+<details><summary>Show columns' distributions analysis</summary>
+<ul>
+<li> The distribution graphics below also proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
+</ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_005.png" width="850">
 </p>
