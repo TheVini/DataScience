@@ -101,7 +101,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-### 3. Model training and testing - With skewed data and no attribute selection
+## 3. Model training and testing - With skewed data and no attribute selection
 
 <details><summary>Show Dataset columns example</summary>
 <p>Explicative variables (left image) and response variable (right image)</p>
@@ -147,7 +147,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-### 4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection
+## 4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection
 
 <details><summary>Show results' statistics</summary>
 <p align="center">
@@ -179,6 +179,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-### 5. Conclusion
+## 5. Conclusion
 
 Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests, section 3, using 30 train loops. But, during K-Fold cross-validation, section 4, just SVC algorithm achieved a real different result from section 3. On the 4 one, SVC reached a lower result. Other algorithms reached a good result on cross-validation, a special consideration for Logistic Regression which reached the higher result.
