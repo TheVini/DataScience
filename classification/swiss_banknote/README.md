@@ -137,7 +137,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show results' confusion matrix</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_016.png" height="450">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_016.png" height="550">
 </p>
 </details>
 
@@ -169,7 +169,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show results' confusion matrix</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_021.png" height="450">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_021.png" height="550">
 </p>
 </details>
 
