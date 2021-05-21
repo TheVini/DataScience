@@ -110,3 +110,39 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_011.png" height="150">
 </p>
 </details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_012.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' score</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_013.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_014.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' ROC curve</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_015.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' confusion matrix</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_016.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_017.png" height="150">
+</p>
+</details>
