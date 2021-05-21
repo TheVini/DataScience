@@ -1,4 +1,4 @@
-## Swiss banknote conterfeit detection
+# Swiss banknote conterfeit detection
 
 Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzles/swiss-banknote-conterfeit-detection
 
