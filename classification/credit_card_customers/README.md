@@ -89,3 +89,12 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_020.png" width="450">
 </p>
 </details>
+
+<details><summary>Show pairwaise correlation analysis</summary>
+ <ul>
+<li> The heatmap for Pearson correlation table below proves no explicative variable is, at least, on moderate level, according to Evans classification, Evans (1996, also http://leg.ufpr.br/~silvia/CE003/node74.html, on Brazilian portuguese)
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_021.png" width="450">
+</p>
+</details>
