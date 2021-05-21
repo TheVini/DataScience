@@ -43,3 +43,9 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
+**Analysis:** The response variable, 'conterfeit', is perfect balanced between its classes. So there is no need of using undersampling or oversampling techniques.
+<details><summary>Show classes distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_004.png" width="350">
+</p>
+</details>
