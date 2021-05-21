@@ -58,3 +58,12 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_005.png" width="850">
 </p>
 </details>
+
+**Analysis:** 
+ - The box plots below described some outliers.
+
+<details><summary>Show columns' box plots</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_006.png" width="850">
+</p>
+</details>
