@@ -179,3 +179,14 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> Neighbourhood Cleaning Rule
 </ul>
 </details>
+
+<details><summary>Oversampling analysis</summary>
+<p>Some oversamping techniques were tested and the best one was the "Random Over Sampler". Undersampling techniques that were tested:</p>
+<ul>
+<li> Random Over Sampler
+<li> SMOTE
+<li> ADASYN
+<li> Borderline SMOTE
+<li> SMOTEN
+</ul>
+</details>
