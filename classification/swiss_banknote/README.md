@@ -30,7 +30,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-### 2. Exploratory Data Analysis
+## 2. Exploratory Data Analysis
 
 <details><summary>Show Dataset columns' analysis</summary>
 <ul>
