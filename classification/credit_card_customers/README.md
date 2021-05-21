@@ -190,3 +190,41 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> SMOTEN
 </ul>
 </details>
+
+#### 4.2.1. Combination of "Repeated Edited Nearest Neighbours" (Undersampling) and "Random Over Sampler" (Oversampling)
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_036.png" height="250">
+</p>
+</details>
+
+<details><summary>Show results' score</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_037.png" height="250">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_038.png" width="550">
+</p>
+</details>
+
+<details><summary>Show results' ROC curve</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_039.png" height="600">
+</p>
+</details>
+
+<details><summary>Show results' confusion matrix</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_040.png" height="550">
+</p>
+</details>
+
+<details><summary>Show results' score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_041.png" height="450">
+</p>
+</details>
