@@ -54,7 +54,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> In the lower image, it was noticed it is necessary to apply data normalization technique to some columns.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="400">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="350">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_005.png" height="200">
 </p>
 </details>
