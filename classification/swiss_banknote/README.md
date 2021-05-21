@@ -100,3 +100,13 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_009.png" width="750">
 </p>
 </details>
+
+### 3. Model training and testing - With skewed data and no attribute selection
+
+<details><summary>Show Dataset columns' analysis</summary>
+<p>Explicative variables (left image) and response variable (right image)</p>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_010.png" height="250">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_011.png" height="250">
+</p>
+</details>
