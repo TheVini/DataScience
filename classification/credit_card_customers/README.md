@@ -52,7 +52,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="300">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="400">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_005.png" height="200">
 </p>
 </details>
