@@ -50,3 +50,11 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_004.png" height="25">
 </p>
 </details>
+
+**Analysis:** 
+ - The distribution graphics below proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
+<details><summary>Show columns' distributions</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_005.png" width="350">
+</p>
+</details>
