@@ -143,7 +143,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show results' score distribution</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_017.png" height="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_017.png" height="550">
 </p>
 </details>
 
@@ -175,7 +175,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show results' score distribution</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_022.png" height="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_022.png" height="550">
 </p>
 </details>
 
