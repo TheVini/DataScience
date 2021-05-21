@@ -15,7 +15,7 @@ Inside each folder contains its README file, data source reference, solution, co
 2. Regression
    - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Ongoing
 3. GAN (Generative Adversarial Networks)
-   - [Artifial anime generator](https://bit.ly/3sVqOE1) - Solved
+   - [Artificial anime generator](https://bit.ly/3sVqOE1) - Solved
 4. Reinforcement Learning
    - [OpenAI - Gym](https://github.com/TheVini/ReinforcementLearning_OpenAI) - Partialy Solved
 
