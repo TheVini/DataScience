@@ -91,3 +91,12 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_008.png" width="550">
 </p>
 </details>
+
+<details><summary>Show Scatter and Distribution plots analysis</summary>
+<ul>
+<li> In addition, the Scatter and Distributions plot below show that variable "Diagonal" strongly explain the variable "conterfeit".
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_009.png" width="550">
+</p>
+</details>
