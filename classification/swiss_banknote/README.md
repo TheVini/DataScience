@@ -52,7 +52,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-<details><summary>Show columns' distributions analysis</summary>
+<details><summary>Show explicative columns' distributions analysis</summary>
 <ul>
 <li> The distribution graphics below also proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
 </ul>
