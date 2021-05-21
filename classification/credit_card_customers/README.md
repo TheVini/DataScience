@@ -263,6 +263,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 ## 5. Conclusion
 
-**Note:** Some trainning were carried out with Robust Scaler, but it reached a TPR lower than models in section 4.2.1., as well as a FPR higher than models in 4.2.1.
+**Note:** Some trainnings were carried out with Robust Scaler, but it reached a TPR lower than models in section 4.2.1., as well as a FPR higher than models in 4.2.1.
 
 Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests, section 4.1 and 4.2, using 30 train loops. But, during K-Fold cross-validation, section 4.3, just SVC algorithm achieved a real different result from previous sections - a lower result. Other algorithms reached a good result on cross-validation, a special consideration for Random Forest which reached the higher resultm 99.5%.
