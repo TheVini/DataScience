@@ -146,3 +146,35 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_017.png" height="150">
 </p>
 </details>
+
+### 4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_018.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' score</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_019.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_020.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' confusion matrix</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_021.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_022.png" height="150">
+</p>
+</details>
