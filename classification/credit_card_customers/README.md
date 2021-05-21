@@ -32,13 +32,13 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 ## 2. Exploratory Data Analysis
 
-<details><summary>Show Dataset size</summary>
+<details><summary>Show Dataset old size</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="25">
 </p>
 </details>
 
-<details><summary>Show Dataset clean</summary>
+<details><summary>Show the new clean dataset</summary>
  <ul>
 <li> according to this dataset author on Kaggle, two last columns must be deleted. New size: 10127 x 21.
 </ul>
