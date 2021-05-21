@@ -78,3 +78,16 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_007.png" width="850">
 </p>
 </details>
+
+<details><summary>Show pairwaise correlation analysis</summary>
+<p>From the heatmap of Pearson correlation described below, it can be extracted some conclusios when compare all variables to "conterfeit". According to Evans (1996 - "Evans JD (1996) Straight forward statistics for the behavioral sciences. Brooks/Cole Pub. Co, Pacific Grove", also http://leg.ufpr.br/~silvia/CE003/node74.html - in portuguese) classification for Pearson correlation, follow below the conclusions about the correlation between all variables and variable "conterfeit":</p>
+<ul>
+<li> Very strong: Diagonal
+<li> Strong: Bottom
+<li> Moderate: Left, Right, Top
+<li> Very weak: Lenght
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_008.png" width="850">
+</p>
+</details>
