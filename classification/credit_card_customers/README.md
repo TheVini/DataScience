@@ -143,7 +143,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show results' confidence interval</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_032.png" width="650">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_032.png" width="550">
 </p>
 </details>
 
