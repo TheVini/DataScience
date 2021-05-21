@@ -11,9 +11,11 @@ Inside each folder contains its README file, data source reference, solution, co
 1. Classification
    - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved (Pending completeness - ROC Curve for K-Folds cross-validation)
    - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved (Pending completeness - ROC Curve for K-Folds cross-validation)
-2. GAN (Generative Adversarial Networks)
+2. Regression
+   - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Ongoing
+3. GAN (Generative Adversarial Networks)
    - [Artifial anime generator](https://bit.ly/3sVqOE1) - Solved
-2. Reinforcement Learning
+4. Reinforcement Learning
    - [OpenAI - Gym](https://github.com/TheVini/ReinforcementLearning_OpenAI) - Partialy Solved
 
 **Repository author's Linkedin profile**: https://bit.ly/3tsOnU3
