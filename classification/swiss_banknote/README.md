@@ -59,17 +59,16 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-**Analysis:** 
- - The box plots below detail some outliers.
-
-<details><summary>Show columns' box plots</summary>
+<details><summary>Show columns' box plots analysis</summary>
+<ul>
+<li> The box plots below detail some outliers.
+</ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_006.png" width="850">
 </p>
 </details>
 
-<details><summary>Show QQ plots</summary>
- <p><b>Analysis:</b></p>
+<details><summary>Show QQ plots analysis</summary>
 <ul>
 <li> About data normality, some deatils are described below by QQ plots with alpha adjusted to 5%.
 </ul>
