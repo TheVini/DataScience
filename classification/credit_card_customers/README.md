@@ -86,6 +86,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_017.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_018.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_019.png" width="950">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_020.png" width="550">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_020.png" width="450">
 </p>
 </details>
