@@ -49,7 +49,9 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show Dataset columns' analysis</summary>
 <ul>
-<li> By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+<li> Upper image shows that by getting "non-null" results, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+<li> Upper image shows that between explicative variables, there are some qualitative variables ("object" type), quantiative ones - discrete (most of them of "int64" type) and continuous (most of them of "float64"). After a deep analysis, it was noted that some variables could have their type converted from "int64" to "float64", for this context - "Total_Trans_Amt" (Total Transaction Amount) and "Total_Revolving_Bal" (Total Revolving Balance on the Credit Card). Because they represent the sum of continuous values.
+<li> In the lower image, it was noticed it is necessary to apply data normalization technique to some columns.
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_004.png" height="400">
