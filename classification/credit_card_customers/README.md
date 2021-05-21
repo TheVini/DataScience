@@ -34,7 +34,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 <details><summary>Show Dataset size</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="100">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_002.png" height="500">
 </p>
 </details>
 
@@ -43,7 +43,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 <li> according to this dataset author on Kaggle, two last columns must be deleted.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_003.png" height="1050">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_003.png" width="1050">
 </p>
 </details>
 
