@@ -52,7 +52,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </details>
 
 **Analysis:** 
- - The distribution graphics below proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
+ - The distribution graphics below also proves that data normalization is need to some explicative variables, as well as, it shows some different kind of distributions: bimodal, normal, left and tight skewed.
 <details><summary>Show columns' distributions</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_005.png" width="850">
@@ -60,10 +60,19 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </details>
 
 **Analysis:** 
- - The box plots below described some outliers.
+ - The box plots below detail some outliers.
 
 <details><summary>Show columns' box plots</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_006.png" width="850">
+</p>
+</details>
+
+**Analysis:** 
+ - bout data normality, some deatils are described below by QQ plots with alpha adjusted to 5%.
+
+<details><summary>Show QQ plots</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_007.png" width="850">
 </p>
 </details>
