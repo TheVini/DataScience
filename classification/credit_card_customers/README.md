@@ -98,3 +98,12 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_021.png" width="850">
 </p>
 </details>
+
+<details><summary>Show Scatter and Distribution plots analysis</summary>
+ <ul>
+<li> Pairwise relationships graphics below proves it's going to be hard to the algorithms learning how to distinguish elements from both classes. Probably, undersampling techniques can solve this problem. Also, oversampling can solve the unbalanced data problem.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/src/Image_022.png" width="850">
+</p>
+</details>
