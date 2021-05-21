@@ -24,8 +24,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 ### 1. Getting dataset from Kaggle by API
 
-![alt text](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_001.png)
-
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_001.png" width="350">
 </p>
