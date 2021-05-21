@@ -63,7 +63,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 <details><summary>Show columns' box plots analysis</summary>
 <ul>
-<li> The box plots below detail some outliers.
+<li> The box plots below detail q few outliers.
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_006.png" width="850">
