@@ -32,11 +32,11 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 
 ### 2. Exploratory Data Analysis
 
-**Analysis:** 
- - By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
- - The data below proves that some normalization technique is needed on explicative variables and they are also continuous.
-
 <details><summary>Show Dataset columns' analysis</summary>
+<ul>
+<li> By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+<li> The data below proves that some normalization technique is needed on explicative variables and they are also continuous.
+</ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_002.png" height="250">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_003.png" height="250">
@@ -44,10 +44,10 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </details>
 
 <details><summary>Show 'conterfeit' classes distribution</summary>
-<p align="center">
 <ul>
 <li> The response variable, 'conterfeit', is perfect balanced between its classes. So there is no need of using undersampling or oversampling techniques.
 </ul>
+<p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/src/Image_004.png" height="15">
 </p>
 </details>
