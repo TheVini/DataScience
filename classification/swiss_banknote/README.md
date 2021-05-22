@@ -27,7 +27,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 * [2. Exploratory Data Analysis](#Step_2)
 * [3. Model training and testing - With skewed data and no attribute selection](#Step_3)
 * [4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection](#Step_4)
-* [5. Conclusion](#Step_5)
+* [Conclusion](#Step_5)
 
 ## 1. Getting dataset from Kaggle by API
 
