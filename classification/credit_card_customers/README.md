@@ -23,14 +23,14 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
 ## Table of Content
-- [1. Getting dataset from Kaggle by API]()
-- [2. Exploratory Data Analysis]()
-- [3. Data Prep]()
-- [4. Model training]()
-  * [4.1. No treatment applied on models]()
-  * [4.2. Oversampling and Undersampling Technique]()
-   + [4.2.1. Combination of "Repeated Edited Nearest Neighbours" (Undersampling) and "Random Over Sampler" (Oversampling)]()
-  * [4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques]()
+- [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#1-getting-dataset-from-kaggle-by-api)
+- [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#2-exploratory-data-analysis)
+- [3. Data Prep](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#3-data-prep)
+- [4. Model training](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#4-model-training)
+  * [4.1. No treatment applied on models](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#41-no-treatment-applied-on-models---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
+  * [4.2. Oversampling and Undersampling Technique](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#42-oversampling-and-undersampling-technique---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
+   + [4.2.1. Combination of "Repeated Edited Nearest Neighbours" (Undersampling) and "Random Over Sampler" (Oversampling)](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#421-combination-of-repeated-edited-nearest-neighbours-undersampling-and-random-over-sampler-oversampling)
+  * [4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#43-training-models-with-k-fold-validation-and-a-combination-of-oversampling-and-undersampling-techniques---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
 - [5. Conclusion]()
 
 ## 1. Getting dataset from Kaggle by API
