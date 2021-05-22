@@ -186,7 +186,6 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-5. Conclusion
-=============
+## 5. Conclusion
 
 Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests, section 3, using 30 train loops. But, during K-Fold cross-validation, section 4, just SVC algorithm achieved a real different result from section 3. On the 4 one, SVC reached a lower result. Other algorithms reached a good result on cross-validation, a special consideration for Logistic Regression which reached the higher result.
