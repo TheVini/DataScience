@@ -22,6 +22,17 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
+## Table of Content
+- [1. Getting dataset from Kaggle by API]()
+- [2. Exploratory Data Analysis]()
+- [3. Data Prep]()
+- [4. Model training]()
+  * [4.1. No treatment applied on models]()
+  * [4.2. Oversampling and Undersampling Technique]()
+   + [4.2.1. Combination of "Repeated Edited Nearest Neighbours" (Undersampling) and "Random Over Sampler" (Oversampling)]()
+  * [4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques]()
+- [5. Conclusion]()
+
 ## 1. Getting dataset from Kaggle by API
 
 <details><summary>Show Dataset</summary>
