@@ -10,7 +10,7 @@ Inside each folder contains its README file, data source reference, solution, co
 ## Exercises
 1. Classification
    - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved 
-   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved (updating results visualization)
+   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved
    > Note: pending completeness for both classification problem - ROC Curve for K-Folds cross-validation
 2. Regression
    - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Ongoing
