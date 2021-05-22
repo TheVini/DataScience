@@ -23,10 +23,10 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
 ## Table of Content
-- [1. Getting dataset from Kaggle by API](#Step_1)
-- [2. Exploratory Data Analysis](#Step_2)
-- [3. Model training and testing - With skewed data and no attribute selection](#Step_3)
-- [4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection](#Step_4)
+- [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#1-getting-dataset-from-kaggle-by-api)
+- [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#2-exploratory-data-analysis)
+- [3. Model training and testing - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#3-model-training-and-testing---with-skewed-data-and-no-attribute-selection)
+- [4. Model training with K-Fold cross-validation and testing - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#4-model-training-with-k-fold-cross-validation-and-testing---with-skewed-data-and-no-attribute-selection)
 - [5. Conclusion](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#5-conclusion)
 
 ## 1. Getting dataset from Kaggle by API
