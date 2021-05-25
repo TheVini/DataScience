@@ -27,7 +27,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   * [3.1. No treatment applied on models - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#31-no-treatment-applied-on-models---with-skewed-data-and-no-attribute-selection)
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#32-oversampling-and-undersampling-technique---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%¶](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#33-k-fold-cross-validation-and-a-combination-of-oversampling-and-undersampling-techniques---with-skewed-data-no-attribute-selection-dataset-size-for-test-30)
-- [4. Conclusion]()
+- [4. Conclusion](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#4-conclusion)
 
 ## 1. Getting dataset from Kaggle by API
 
