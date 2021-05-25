@@ -62,6 +62,6 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_006.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_007.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_008.png" width="950">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_009.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_009.png" width="450">
 </p>
 </details>
