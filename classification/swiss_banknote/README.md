@@ -26,7 +26,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 - [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#2-exploratory-data-analysis)
 - [3. Model training and testing - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#3-model-training-and-testing---with-skewed-data-and-no-attribute-selection)
-- [4. K-Fold cross-validation and testing - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#4-k-fold-cross-validation-and-testing---with-skewed-data-no-attribute-selection-and-dataset-size-for-test-30)
+- [4. K-Fold cross-validation and testing - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#4-k-fold-cross-validation---with-skewed-data-no-attribute-selection-and-dataset-size-for-test-30)
 - [5. Conclusion](https://github.com/TheVini/DataScience/blob/master/classification/swiss_banknote/README.md#5-conclusion)
 
 ## 1. Getting dataset from Kaggle by API
