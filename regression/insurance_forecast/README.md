@@ -99,3 +99,14 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 </p>
 </details>
 
+## 3. Model training and testing
+
+### 3.1. No treatment applied on models - With skewed data and no attribute selection
+
+<details><summary>Show Dataset columns example</summary>
+<p>Explicative variables (left image) and response variable (right image)</p>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_014.png" height="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_015.png" height="150">
+</p>
+</details>
