@@ -24,7 +24,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 - [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#2-exploratory-data-analysis)
 - [3. Model training and testing](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#3-model-training-and-testing)
-  * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
+  * [3.1. No treatment applied on models - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#31-no-treatment-applied-on-models---with-skewed-data-and-no-attribute-selection)
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%¶]()
 - [4. Conclusion]()
@@ -130,3 +130,5 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 </details>
 
 ### 3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
+
+**Analysis:** on exploratory data analysis, it was seen that the main explicative variable ("smoker", 79% according to the "Pairwise correlation of the columns" heatmap table) is unbalanced between its two classes: one class has 3.8832 more times elements than the other one. So, Oversampling and Undersampling technique were choosen to solve this problem and a satisfactory result was achieved. The Oversampling (RandomOverSampler) and Undersampling (RepeatedEditedNearestNeighbours) techniques choosen in this project are the same used in the "Credit Card" classfication project which is in this same Github repository, and on that ocasion they showed a satisfactory performance improvement for the algorithms.
