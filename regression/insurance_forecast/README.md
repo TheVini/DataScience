@@ -132,3 +132,9 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 ### 3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
 
 **Analysis:** on exploratory data analysis, it was seen that the main explicative variable ("smoker", 79% according to the "Pairwise correlation of the columns" heatmap table) is unbalanced between its two classes: one class has 3.8832 more times elements than the other one. So, Oversampling and Undersampling technique were choosen to solve this problem and a satisfactory result was achieved. The Oversampling (RandomOverSampler) and Undersampling (RepeatedEditedNearestNeighbours) techniques choosen in this project are the same used in the "Credit Card" classfication project which is in this same Github repository, and on that ocasion they showed a satisfactory performance improvement for the algorithms.
+
+<details><summary>Show before/after classes distribution for "Smoker" class</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_019.png" width="650">
+</p>
+</details>
