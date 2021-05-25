@@ -34,6 +34,8 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 <details><summary>Show Dataset</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_001.png" width="350">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_002.png" width="350">
+</p>
+ <p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_002.png" width="150">
 </p>
 </details>
