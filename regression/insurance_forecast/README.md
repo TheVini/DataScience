@@ -28,3 +28,11 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%¶]()
 - [4. Conclusion]()
+
+## 1. Getting dataset from Kaggle by API
+
+<details><summary>Show Dataset</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_001.png" width="350">
+</p>
+</details>
