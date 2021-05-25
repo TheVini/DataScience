@@ -128,3 +128,5 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_018.png" width="550">
 </p>
 </details>
+
+### 3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
