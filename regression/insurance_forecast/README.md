@@ -39,3 +39,17 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_002.png" width="100">
 </p>
 </details>
+
+## 2. Exploratory Data Analysis
+
+<details><summary>Show Dataset columns' analysis</summary>
+<ul>
+<li> By getting "non-null" results below, it proves that there is no null data, so there is no need to delete elements/columns or to add data by interpolation.
+<li> Between explicative variables, there are some qualitative variables ("object" type), quantiative ones - discrete (most of them of "int64" type) and continuous (most of them of "float64").
+<li> Afterwards, it was noticed it is necessary to apply data normalization technique to some columns.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_003.png" height="200">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_004.png" height="200">
+</p>
+</details>
