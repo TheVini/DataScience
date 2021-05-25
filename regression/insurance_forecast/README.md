@@ -125,6 +125,6 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 
 <details><summary>Show algorithms results' R2 score comparison</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_018.png" width="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_018.png" width="550">
 </p>
 </details>
