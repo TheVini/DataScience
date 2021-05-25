@@ -30,7 +30,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
   * [4.1. No treatment applied on models](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#41-no-treatment-applied-on-models---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
   * [4.2. Oversampling and Undersampling Technique](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#42-oversampling-and-undersampling-technique---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
     + [4.2.1. Combination of "Repeated Edited Nearest Neighbours" (Undersampling) and "Random Over Sampler" (Oversampling)](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#421-combination-of-repeated-edited-nearest-neighbours-undersampling-and-random-over-sampler-oversampling)
-  * [4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#43-training-models-with-k-fold-validation-and-a-combination-of-oversampling-and-undersampling-techniques---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
+  * [4.3. K-Fold validation and a combination of Oversampling and Undersampling techniques](https://github.com/TheVini/DataScience/blob/master/classification/credit_card_customers/README.md#43-k-fold-validation-and-a-combination-of-oversampling-and-undersampling-techniques---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
 - [5. Conclusion]()
 
 ## 1. Getting dataset from Kaggle by API
@@ -240,7 +240,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/sakshigo
 </p>
 </details>
 
-### 4.3. Training models with K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, and dataset size for test 30%
+### 4.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, and dataset size for test 30%
 
 <details><summary>Show results' statistics</summary>
 <p align="center">
