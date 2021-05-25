@@ -154,7 +154,7 @@ Exercise-based on a dataset published in Kaggle: https://www.kaggle.com/chrizzle
 </p>
 </details>
 
-## 4. K-Fold cross-validation and testing - With skewed data, no attribute selection, and dataset size for test 30%
+## 4. K-Fold cross-validation - With skewed data, no attribute selection, and dataset size for test 30%
 
 <details><summary>Show results' statistics</summary>
 <p align="center">
