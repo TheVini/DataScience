@@ -71,6 +71,6 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 <li> Encoded data
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_010.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_010.png" width="350">
 </p>
 </details>
