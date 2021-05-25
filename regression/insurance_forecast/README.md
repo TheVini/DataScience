@@ -156,3 +156,33 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_022.png" width="550">
 </p>
 </details>
+
+### 3.3. K-Fold cross-validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%
+
+<details><summary>Show before/after classes distribution for "Smoker" classe</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_023.png" width="1050">
+</p>
+</details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_024.png" width="350">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_025.png" width="850">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score comparison</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_026.png" width="550">
+</p>
+</details>
+
+## 4. Conclusion
+
+Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests after applying oversampling and undersampling techniques, under 30 training loops. Such techniques improved algorithms performance by average of 12.56% (standard deviation - 5,396) over the same algorithms with no oversampling and undersampling techniques. The DecisionTreeRegressor was improved in 27.17%. After K-Fold cross-validation, section 3.3, KNeighborsRegressor algorithms had its performance decreased in 45.5% and ElasticNet in 21.976%. Other algorithms had their performance reduced less than 1% during K-Fold cross-validation. The best algorithms R2 Score during K-Fold cross-validation were: RandomForestRegressor(99.434%), DecisionTreeRegressor(99.317%), XGBRFRegressor(98.128%), GradientBoostingRegressor(97.992%, and XGBRegressor(97.645%).
