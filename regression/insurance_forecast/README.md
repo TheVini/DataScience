@@ -53,3 +53,15 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_004.png" height="200">
 </p>
 </details>
+
+<details><summary>Show columns' distributions and box plots analysis</summary>
+ <ul>
+<li> There are skewed data in some columns and it can be seen on quantitative explicative variables' histograms and on their boxplots. 
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_006.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_007.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_008.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_009.png" width="950">
+</p>
+</details>
