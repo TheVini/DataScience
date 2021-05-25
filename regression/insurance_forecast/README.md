@@ -21,7 +21,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
 ## Table of Content
-- [1. Getting dataset from Kaggle by API]()
+- [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis]()
 - [3. Model training and testing]()
   * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
