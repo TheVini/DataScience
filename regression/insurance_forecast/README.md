@@ -65,3 +65,12 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_009.png" width="450">
 </p>
 </details>
+
+<details><summary>Data prep for some others analysis</summary>
+<ul>
+<li> Encoded data
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_010.png" width="950">
+</p>
+</details>
