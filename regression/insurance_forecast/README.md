@@ -113,6 +113,6 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 
 <details><summary>Show results' statistics</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_016.png" width="450">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_016.png" width="350">
 </p>
 </details>
