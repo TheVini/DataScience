@@ -7,16 +7,16 @@ Inside each folder contains its README file, data source reference, solution, co
 
 **Note: This repository is under continuous updating in order to correct bugs, correct conceptual errors and typo, implement improvements, and solve new problems.**
 
-## Exercises
+## Projects
 1. Classification
-   - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Solved 
-   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved
+   - [Swiss Bannote Conterfeit Detection - Kaggle](classification/swiss_banknote) - Status: Solved 
+   - [Credit Card customers - Kaggle](classification/credit_card_customers) - Status: Solved 
    > Note: pending completeness for both classification problem - ROC Curve for K-Folds cross-validation
 2. Regression
-   - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Solved
+   - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Status: Solved 
 3. GAN (Generative Adversarial Networks)
-   - [Artificial anime generator](https://bit.ly/3sVqOE1) - Solved
+   - [Artificial anime generator](https://bit.ly/3sVqOE1) - Status: Solved 
 4. Reinforcement Learning
-   - [OpenAI - Gym](https://github.com/TheVini/ReinforcementLearning_OpenAI) - Partialy Solved
+   - [OpenAI - Gym](https://github.com/TheVini/ReinforcementLearning_OpenAI) - Status: Partialy Solved (many projects)
 
 **Repository author's Linkedin profile**: https://bit.ly/3tsOnU3
