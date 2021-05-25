@@ -74,3 +74,28 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_010.png" width="350">
 </p>
 </details>
+
+<details><summary>Show pairwaise correlation analysis</summary>
+ <ul>
+<li> The heatmap for Pearson correlation table below proves no explicative variable is, at least, on moderate level, according to Evans classification, Evans (1996, also http://leg.ufpr.br/~silvia/CE003/node74.html, on Brazilian portuguese)
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_011.png" width="850">
+</p>
+</details>
+
+<details><summary>Show Scatter and Distribution plots analysis</summary>
+<ul>
+<li> The first scatter plots (using Charges as hue) below show the trend seen on parwise correlation analysis.
+</ul>
+<ul>
+<li> The second scatter plots (using Smoker as hue) below states what was seen on parwise correlation analysis.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_012.png" width="850">
+</p>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_013.png" width="850">
+</p>
+</details>
+
