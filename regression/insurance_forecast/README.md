@@ -138,3 +138,21 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_019.png" width="1050">
 </p>
 </details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_020.png" width="350">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_021.png" width="850">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score comparison</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_022.png" width="550">
+</p>
+</details>
