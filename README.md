@@ -13,7 +13,7 @@ Inside each folder contains its README file, data source reference, solution, co
    - [Credit Card customers - Kaggle](classification/credit_card_customers) - Solved
    > Note: pending completeness for both classification problem - ROC Curve for K-Folds cross-validation
 2. Regression
-   - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Ongoing
+   - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Solved
 3. GAN (Generative Adversarial Networks)
    - [Artificial anime generator](https://bit.ly/3sVqOE1) - Solved
 4. Reinforcement Learning
