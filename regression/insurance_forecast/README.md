@@ -77,7 +77,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 
 <details><summary>Show pairwaise correlation analysis</summary>
  <ul>
-<li> The heatmap for Pearson correlation table below proves no explicative variable is, at least, on moderate level, according to Evans classification, Evans (1996, also http://leg.ufpr.br/~silvia/CE003/node74.html, on Brazilian portuguese)
+<li> The heatmap for Pearson correlation table below proves just pnde explicative variable is has a strong correlation level to the explicative variable, according to Evans classification, Evans (1996, also http://leg.ufpr.br/~silvia/CE003/node74.html, on Brazilian portuguese)
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_011.png" width="850">
@@ -86,10 +86,10 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/mirichoi
 
 <details><summary>Show Scatter and Distribution plots analysis</summary>
 <ul>
-<li> The first scatter plots (using Charges as hue) below show the trend seen on parwise correlation analysis.
+<li> The first scatter plots (using Charges as hue) below show some trend for Smoker class.
 </ul>
 <ul>
-<li> The second scatter plots (using Smoker as hue) below states what was seen on parwise correlation analysis.
+<li> The second scatter plots (using Smoker as hue) below states what was seen on the first parwise correlation analysis.
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/insurance_forecast/src/Image_012.png" width="850">
