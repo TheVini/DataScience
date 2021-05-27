@@ -50,7 +50,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 <li> Afterwards, it was noticed it is necessary to apply data normalization technique to some columns.
 </ul>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_002.png" height="600">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_002.png" height="500">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_003.png" height="200">
 </p>
 </details>
