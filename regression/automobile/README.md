@@ -101,3 +101,15 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_026.png" width="850">
 </p>
 </details>
+
+## 3. Model training and testing
+
+### 3.1. No treatment applied on models - With skewed data and no attribute selection
+
+<details><summary>Show Dataset columns example</summary>
+<p>Explicative variables (left image) and response variable (right image)</p>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_027.png" height="150">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_028.png" height="150">
+</p>
+</details>
