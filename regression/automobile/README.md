@@ -25,7 +25,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 - [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#2-exploratory-data-analysis)
 - [3. Model training and testing](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#3-model-training-and-testing)
   * [3.1. No treatment applied on models - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#31-no-treatment-applied-on-models---with-skewed-data-and-no-attribute-selection)
-  * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
+  * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#32-oversampling-and-undersampling-technique---with-skewed-data-no-attribute-selection-normalized-data-with-standard-scaler-dataset-size-for-test-30)
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%]()
 - [4. Conclusion]()
 
@@ -171,3 +171,39 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_037.png" width="550">
 </p>
 </details>
+
+### 3.3. K-Fold cross-validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%
+
+<details><summary>Show before/after classes distribution for "Smoker" classe</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_038.png" width="1050">
+</p>
+</details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_039.png" width="350">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_040.png" width="650">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_041.png" width="850">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score comparison</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_042.png" width="550">
+</p>
+</details>
+
+## 4. Conclusion
+
+Even with no data transformation for skewed data, a good result was achieved with both algorithms during tests after applying oversampling and undersampling techniques, under 30 training loops. Such techniques improved algorithms performance by average of 14.4% (standard deviation - 4,947) over the same algorithms with no oversampling and undersampling techniques. The DecisionTreeRegressor was improved in 21.768%. After K-Fold cross-validation, section 3.3, Almost all algorithms hept their performance with a low variance - less than 2%. The best algorithms R2 Score during K-Fold cross-validation were: GradientBoostingRegressor(99.577%), DecisionTreeRegressor(99.567%), RandomForestRegressor(99.551%), XGBRegressor(99.386%), and XGBRFRegressor(99.262%).
