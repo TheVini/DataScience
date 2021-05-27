@@ -21,7 +21,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 **Solution author's Linkedin profile:** https://bit.ly/3tsOnU3
 
 ## Table of Content
-- [1. Getting dataset from Kaggle by API]()
+- [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis]()
 - [3. Model training and testing]()
   * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
@@ -81,5 +81,14 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_022.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_023.png" width="950">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_024.png" width="450">
+</p>
+</details>
+
+<details><summary>Show pairwaise correlation analysis</summary>
+ <ul>
+<li> The heatmap for Pearson correlation table below proves there is a diversity of correlation level, according to Evans classification, Evans (1996, also http://leg.ufpr.br/~silvia/CE003/node74.html, on Brazilian portuguese)
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_025.png" width="850">
 </p>
 </details>
