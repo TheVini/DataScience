@@ -36,3 +36,19 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_001.png" width="1050">
 </p>
 </details>
+
+## 2. Exploratory Data Analysis
+
+<details><summary>Show Dataset columns' analysis</summary>
+<ul>
+<li> There is nullable columns, BUT there is another character doing the same thing, the "?", as shown in the Kaggle dataset discription, as well as many columns are described as "object" type just because this "?" represanting the nullable values, but this columns are or int64 either float64, this is not real for all "object" type columns but it is reall including for the response variable column. It proves:
+<li><li> There is null data, so there is the need to delete elements/columns or to add data by interpolation, mean, or mode.
+<li><li> There is the need to cast some columns.
+<li> Between explicative variables, there are some qualitative variables ("object" type), quantiative ones - discrete (most of them of "int64" type) and continuous (most of them of "float64").
+<li> Afterwards, it was noticed it is necessary to apply data normalization technique to some columns.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_002.png" height="200">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_003.png" height="200">
+</p>
+</details>
