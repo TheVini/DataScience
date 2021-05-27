@@ -14,7 +14,7 @@ Inside each folder contains its README file, data source reference, solution, co
    > Note: pending completeness for both classification problem - ROC Curve for K-Folds cross-validation
 2. Regression
    - [Medical Cost Personal Datasets - Kaggle](regression/insurance_forecast) - Status: Solved 
-   - [Automobile Dataset - Kaggle]() - Status: Solved 
+   - [Automobile Dataset - Kaggle](regression/automobile) - Status: Solved 
 3. GAN (Generative Adversarial Networks)
    - [Artificial anime generator](https://bit.ly/3sVqOE1) - Status: Solved 
 4. Reinforcement Learning
