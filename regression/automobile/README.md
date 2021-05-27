@@ -33,6 +33,6 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 
 <details><summary>Show Dataset</summary>
 <p align="center">
-  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_001.png" width="350">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_001.png" width="750">
 </p>
 </details>
