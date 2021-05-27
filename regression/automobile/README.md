@@ -24,7 +24,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 - [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#2-exploratory-data-analysis)
 - [3. Model training and testing](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#3-model-training-and-testing)
-  * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
+  * [3.1. No treatment applied on models - With skewed data and no attribute selection](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#31-no-treatment-applied-on-models---with-skewed-data-and-no-attribute-selection)
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%]()
 - [4. Conclusion]()
@@ -135,5 +135,39 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 <details><summary>Show algorithms results' R2 score comparison</summary>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_032.png" width="550">
+</p>
+</details>
+
+### 3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%
+
+**Analysis:** on exploratory data analysis, it was seen that classes of some important explicative variables ("drive-wheels" - 58%, "engine-location" - 33%, "num-of-cylinders" - 65%, "fuel-system" - 52%) are unbalanced between their classes. So, Oversampling and Undersampling technique were choosen to solve this problem and a satisfactory result was achieved applying them just on the "num-of-cylinders" variable. The Oversampling (RandomOverSampler) and Undersampling (RepeatedEditedNearestNeighbours) techniques choosen in this project are the same used in the "Credit Card" classfication project which is in this same Github repository, and on that ocasion they showed a satisfactory performance improvement for the algorithms.
+
+<details><summary>Show before/after classes distribution for "Smoker" classe</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_033.png" width="1050">
+</p>
+</details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_034.png" width="350">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_035.png" width="650">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_036.png" width="850">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score comparison</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_037.png" width="550">
 </p>
 </details>
