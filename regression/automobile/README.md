@@ -54,3 +54,32 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_003.png" height="200">
 </p>
 </details>
+
+<details><summary>Show columns' distributions and box plots analysis</summary>
+ <ul>
+<li> There is some skewed data, it can be seen on some columns histogram and on theis boxplots below.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_004.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_005.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_006.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_007.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_008.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_009.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_010.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_011.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_012.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_013.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_014.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_015.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_016.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_017.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_018.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_019.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_020.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_021.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_022.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_023.png" width="950">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_024.png" width="450">
+</p>
+</details>
