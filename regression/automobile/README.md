@@ -22,7 +22,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 
 ## Table of Content
 - [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#1-getting-dataset-from-kaggle-by-api)
-- [2. Exploratory Data Analysis]()
+- [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#2-exploratory-data-analysis)
 - [3. Model training and testing]()
   * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
@@ -90,5 +90,14 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 </ul>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_025.png" width="850">
+</p>
+</details>
+
+<details><summary>Show Scatter and Distribution plots analysis</summary>
+<ul>
+<li> In pairwise relationships graphics below, it's seen that the strongest object column("num-of-cylinders") delivers a small considerable division between classes of the other variables.
+</ul>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_026.png" width="850">
 </p>
 </details>
