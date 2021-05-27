@@ -23,7 +23,7 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 ## Table of Content
 - [1. Getting dataset from Kaggle by API](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#1-getting-dataset-from-kaggle-by-api)
 - [2. Exploratory Data Analysis](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#2-exploratory-data-analysis)
-- [3. Model training and testing]()
+- [3. Model training and testing](https://github.com/TheVini/DataScience/blob/master/regression/automobile/README.md#3-model-training-and-testing)
   * [3.1. No treatment applied on models - With skewed data and no attribute selection]()
   * [3.2. Oversampling and Undersampling Technique - With skewed data, no attribute selection, normalized data with Standard Scaler, dataset size for test 30%]()
   * [3.3. K-Fold validation and a combination of Oversampling and Undersampling techniques - With skewed data, no attribute selection, dataset size for test 30%]()
@@ -107,9 +107,33 @@ Exercise-based on a dataset published on Kaggle: https://www.kaggle.com/toramky/
 ### 3.1. No treatment applied on models - With skewed data and no attribute selection
 
 <details><summary>Show Dataset columns example</summary>
-<p>Explicative variables (left image) and response variable (right image)</p>
+<p>Explicative variables (top image) and response variable (bottom image)</p>
 <p align="center">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_027.png" height="150">
   <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_028.png" height="150">
+</p>
+</details>
+
+<details><summary>Show results' statistics</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_029.png" width="350">
+</p>
+</details>
+
+<details><summary>Show results' confidence interval</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_030.png" width="650">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score distribution</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_031.png" width="850">
+</p>
+</details>
+
+<details><summary>Show algorithms results' R2 score comparison</summary>
+<p align="center">
+  <img src="https://github.com/TheVini/DataScience/blob/master/regression/automobile/src/Image_032.png" width="550">
 </p>
 </details>
